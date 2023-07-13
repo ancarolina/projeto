@@ -1,5 +1,8 @@
 # Diabetes prediction using Random Forest
 
+![image](https://github.com/ancarolina/projeto/assets/139370654/2c0ed880-c238-4651-8c49-b765d92dd534)
+
+
 Diabetes descreve um grupo de doenças metabólicas em que uma pessoa tem alto nível de açúcar no sangue devido à produção insuficiente de insulina, resposta inadequada das células à insulina ou uma combinação de ambos.
 
 É importante **prevenir** e **diagnosticar** a diabetes em estágio inicial, pois pode ser a causa de muitas outras doenças, como as renais e cardíacas.
