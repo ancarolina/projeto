@@ -1,6 +1,7 @@
 # Diabetes prediction using Random Forest
 
-![image](https://github.com/ancarolina/projeto/assets/139370654/2c0ed880-c238-4651-8c49-b765d92dd534)
+![image](https://github.com/ancarolina/projeto/assets/139370654/fc3448ea-ac17-4eb8-b77f-dc4d75dda6e6)
+
 
 
 Diabetes descreve um grupo de doenças metabólicas em que uma pessoa tem alto nível de açúcar no sangue devido à produção insuficiente de insulina, resposta inadequada das células à insulina ou uma combinação de ambos.
