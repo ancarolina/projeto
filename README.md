@@ -46,9 +46,9 @@ O algoritmo de treinamento para Random Forest aplica a técnica geral de bootstr
 
 Dado um conjunto de treinamento X = $\ x_1$, ..., $\ x_n$  com respostas Y = $\ y_1$, ..., $\ y_n$, é selecionado  uma amostra aleatória com substituição do conjunto de treinamento e ajusta árvores a estas amostras:
 
-For b = 1, ..., B:
+Para b = 1, ..., B:
 
- 1.  Amostra, com substituição,  n  exemplos de treinamento de  X,  Y; chamados de $\ X_b$ e $\ Y_b$.
+ 1. Amostra, com substituição,  n  exemplos de treinamento de  X,  Y; chamados de $\ X_b$ e $\ Y_b$.
  2. Treinar uma árvore de classificação ou regressão de $\ f_b$ em $\ X_b$, $\ Y_b$.
 
 Após o treinamento, as previsões para amostras não vistas x' podem ser feitas pela média das previsões de todas as árvores de regressão individuais em x':
