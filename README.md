@@ -49,6 +49,9 @@ For b = 1, ..., B:
 
 Após o treinamento, as previsões para amostras não vistas x' podem ser feitas pela média das previsões de todas as árvores de regressão individuais em x':
 
+  ![image](https://github.com/ancarolina/projeto/assets/139370654/09257180-61da-4e60-bdff-f4da7483231c)
+
+
 ou pelo voto da maioria, nos casos das árvores de classificação.
 
 Esse procedimento de bootstrapping leva a um melhor desempenho do modelo, pois diminui a variância do modelo, sem aumentar o viés. É uma forma de descorrelacionar as árvores, mostrando-lhes diferentes conjuntos de treinamento.
