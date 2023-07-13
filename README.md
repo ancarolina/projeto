@@ -13,7 +13,7 @@ Desenvolver um modelo preditivo para diabetes utilizando Machine Learning com o 
 
 ## Descrição do Dataset 📝
 
-O [Sylhet Diabetes Dataset](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset) contém 16 atributos preditores e um atributo alvo com 520 registros que foram coletados usando questionários diretos dos pacientes do Diabetes Hospital em Sylhet, Bangladesh e aprovado por médicos.
+O [Sylhet Diabetes Dataset](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset) contém 16 atributos preditores e 1 atributo alvo com 520 registros que foram coletados usando questionários diretos dos pacientes do Diabetes Hospital em Sylhet, Bangladesh e aprovado por médicos.
 
  - **Atributos:**
    
