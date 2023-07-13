@@ -66,6 +66,6 @@ O desempenho do modelo foi medido através da Matriz de Confusão, Acurácia, Pr
 
 ## Conclusão 📈
 
-Neste projeto, foi analisado a predição de diabetes para 520 pacientes. 
+Neste projeto, foi analisado a predição de diabetes para 520 pacientes usando o dataset [Sylhet Diabetes Dataset](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset). 
 
 O modelo criado como resultado da utilização do Random Forest com o RFEC resultou em uma acurácia de 99,35%.
