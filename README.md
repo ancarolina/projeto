@@ -1,6 +1,6 @@
 # Diabetes prediction using Random Forest
 
-![image](https://github.com/ancarolina/projeto/assets/139370654/fc3448ea-ac17-4eb8-b77f-dc4d75dda6e6)
+![image](https://i.ibb.co/qBfLwCM/Sem-t-tulo.png)
 
 
 
